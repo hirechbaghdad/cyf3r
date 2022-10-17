@@ -19,27 +19,27 @@ Use the tool at your own risk and avoid any sloppy actions.
 
 <p>
 
-Installation on Gnu / Linux OS. </br>
+Installation on Gnu/Linux OS or Android. </br>
 
-On terminal </br>
+On terminal for Linux or Termux for Android </br>
 
 ```diff
  sudo su 
 ```
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/hirechbaghdad/cyf3r.git
 ```
 ```diff
-chmod -R 777 mip22 
-```
-
-```diff
-cd mip22
+chmod -R 777 cyf3r 
 ```
 
 ```diff
-bash mip22.sh
+cd cyf3r
+```
+
+```diff
+bash cyf3r.sh
 ```
 
 </br> </br>
